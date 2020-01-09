@@ -1,0 +1,9 @@
+1.Navigating to Converter web page
+2.Verify loading of required web page
+3.Setting first city
+ .setting second city
+ .Fetching time difference
+4.Verify swap button
+5.verify delete button
+6.calender Date
+ .closing Browser

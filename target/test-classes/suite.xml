@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" parallel="tests">
+    <test name="Regression suite 1" >
+        <classes>
+            <class name="com.rahul.TestSavvyTimeConverterTest"/>
+
+        </classes>
+    </test>
+    <test name="Regression suite 2" >
+        <classes>
+            <class name="com.rahul.TestNGSampleTest"/>
+
+        </classes>
+    </test>
+</suite>
