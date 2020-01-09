@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca84941-990b-4a34-a3ec-307edec014c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testcases.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rahul/TestNGSampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rahul/TestSavvyTimeConverterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testcases.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.rahul.TestNGSampleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.rahul.TestSavvyTimeConverterTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/testing.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/TestNGSampleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/TestSavvyTimeConverterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,26 +169,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1578549797950" />
+    <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1578593588206">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1578593588206" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578456574906">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578456574906" />
-    <state width="1253" height="340" key="GridCell.Tab.0.bottom" timestamp="1578592857922">
+    <state width="1253" height="298" key="GridCell.Tab.0.bottom" timestamp="1578593269089">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="340" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578592857922" />
-    <state width="1253" height="340" key="GridCell.Tab.0.center" timestamp="1578592857922">
+    <state width="1253" height="298" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578593269089" />
+    <state width="1253" height="298" key="GridCell.Tab.0.center" timestamp="1578593269087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="340" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578592857922" />
-    <state width="1253" height="340" key="GridCell.Tab.0.left" timestamp="1578592857921">
+    <state width="1253" height="298" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578593269087" />
+    <state width="1253" height="298" key="GridCell.Tab.0.left" timestamp="1578593269086">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="340" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578592857921" />
-    <state width="1253" height="340" key="GridCell.Tab.0.right" timestamp="1578592857922">
+    <state width="1253" height="298" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578593269086" />
+    <state width="1253" height="298" key="GridCell.Tab.0.right" timestamp="1578593269088">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="340" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578592857922" />
+    <state width="1253" height="298" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578593269088" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1578466942219">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
